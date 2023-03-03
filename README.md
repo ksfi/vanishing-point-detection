@@ -12,3 +12,5 @@ So, to each point $(x_i, y_i)$ is associated a curve $\rho(\theta, x_i, y_i)$ in
 Two points in the image plane that belong to the same line thus determine a point in the polar plane $(\rho_i, \theta_i)$ given by the intersection if two sine curves.
 
 <img width="758" alt="Capture d’écran 2023-03-03 à 19 20 17" src="https://user-images.githubusercontent.com/126407732/222797616-ed9a4317-c82e-42f1-bc52-7c32975f0d9a.png">
+
+... unfinished
